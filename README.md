@@ -1,6 +1,8 @@
 
 # Hi there 👋
-I am a full stack developer and currently completing a “Projekt Praxis” bootcamp in which I create exciting projects
+I’m a Full Stack Developer with a strong focus on **Angular** and **Java**. My journey into software development started in a completely different field—I used to work as a **CNC machinist** specializing in prototyping and small-batch production. The precision, problem-solving, and structured approach from my previous career translate well into coding, helping me build robust and maintainable applications.  
+
+Currently, I’m expanding my skills through the **Projekt Praxis** bootcamp with a specialization in **professional web app development**. As part of this program, I work on **real-world projects**, gaining hands-on experience in building scalable and modern applications. I’m always eager to learn, experiment with different tools and frameworks, and refine my craft.
 
 
 ## 🌐 Socials:
